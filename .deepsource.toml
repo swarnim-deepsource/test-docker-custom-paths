@@ -5,4 +5,4 @@ name = "docker"
 enabled = true
 
   [analyzers.meta]
-  dockerfile_paths = ["docker/Dockerfile"]
+  dockerfile_paths = ["docker/notdockerfile"]
